@@ -1,4 +1,5 @@
 const Cesium = require('cesium/Cesium');
+# mei Kommentar
 
 export enum LOOP_TYPE {CLAMP = 1, LOOP = 2};
 export enum PLAY_STATE {PLAY = 1, STOP = 2, PAUSE = 3};
